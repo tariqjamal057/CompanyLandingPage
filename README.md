@@ -31,6 +31,6 @@ cd CompanyLandingPage
 
 ## Demo
 
-- [Click to Watch the Main Video](./static/media/docs/pages/video.html)
+- [Click to Watch the Main Video](./static/media/docs/video/main-demo.mp4)
 
-- [Click to Watch the Mobile View Video](./static/media/docs/pages/mobile-video.html)
+- [Click to Watch the Mobile View Video](./static/media/docs/video/mobile_view-demo.mp4)
